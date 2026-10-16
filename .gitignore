@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+dist-electron/
+release/
+
+# Logs & temp files
+*.log
+*.tmp
+*.tsbuildinfo
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Local Zebra storage
+.zebra/
+
+# Scripts & temporary utilities
+scripts/
